@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Льоша\lz8_2\MyForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lz8_2.vcxproj -> D:\Льоша\lz8_2\x64\Debug\lz8_2.exe

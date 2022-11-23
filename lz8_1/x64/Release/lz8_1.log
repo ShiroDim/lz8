@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\Льоша\lz8_1\MyForm.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Льоша\lz8_1\MyForm.h(162,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Льоша\lz8_1\MyForm.h(164,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Льоша\lz8_1\MyForm.h(165,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lz8_1.vcxproj -> D:\Льоша\lz8_1\x64\Release\lz8_1.exe
